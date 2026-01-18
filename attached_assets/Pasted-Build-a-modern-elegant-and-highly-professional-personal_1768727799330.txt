@@ -1,0 +1,192 @@
+Build a modern, elegant, and highly professional personal portfolio website for me as a Computer Science / IT student and aspiring software engineer, with strong emphasis on clean fundamentals, production-grade engineering practices, and long-term maintainability.
+
+🔍 Reference Sources (must be used)
+
+Existing portfolio repository (structure & content inspiration):
+https://github.com/Nishchal-Panta/Portfolio_website.git
+
+LinkedIn profile (professional summary, certifications, experience):
+https://www.linkedin.com/in/nishchal-panta-3890b1292/
+
+GitHub profile (projects, coding consistency):
+https://github.com/Nishchal-Panta
+
+My CV (attached):
+Primary source of truth for all content.
+
+My CV image (attached):
+Must be shown as a visual preview, not a download.
+
+My photo (attached):
+Use tastefully in hero/about section.
+
+🎯 Website Goals
+
+Recruiter-ready, elegant, and minimal
+
+Demonstrates core web fundamentals, not frameworks
+
+Shows real CI/CD usage through the codebase
+
+Suitable for internships, junior developer roles, and technical review
+
+🧱 Technology Stack (Mandatory)
+
+The website must be built using only:
+
+HTML5 – semantic, accessible structure
+
+CSS3 – layout, responsiveness, typography, theming, 
+Bootstrap, Tailwind, etc.
+
+Vanilla JavaScript – used only for:
+
+Animations
+
+Transitions
+
+Small UI interactions (modals, scroll effects, navigation)
+
+❌ No frontend frameworks (React, Vue, Angular, etc.)
+✔ Clean, well-organized vanilla code
+
+🧱 Required Sections (UI)
+1. Hero Section
+
+Full name and professional title
+
+Short, impactful tagline
+
+CTA buttons:
+
+View Projects
+
+Contact
+
+View CV (scrolls to or opens modal with CV image preview)
+
+2. About Me
+
+Professional summary derived from CV and LinkedIn
+
+3. Skills
+
+Programming Languages
+
+Web & Backend Technologies
+
+Tools & Platforms
+
+DevOps & CI/CD (brief, accurate mention)
+
+4. Projects
+
+Selected GitHub projects
+
+Clear explanations and tech used
+
+5. Certifications & Education
+
+Clean, structured presentation
+
+6. CV Preview Section
+
+High-resolution CV image
+
+Zoom or modal for readability
+
+No download button unless explicitly added later
+
+7. Contact Section
+
+Email
+
+LinkedIn
+
+GitHub
+
+⚙️ Mandatory CI/CD & Engineering Requirements (Code-Level)
+
+The repository must implement CI/CD pipelines, not just describe them.
+
+CI/CD Expectations:
+
+Use GitHub Actions
+
+Trigger on:
+
+Push to main branch
+
+Pull requests
+
+Pipeline should include:
+
+HTML/CSS/JS validation or linting
+
+Build/prepare step (if needed)
+
+Artifact generation (if applicable)
+
+Automated deployment configuration
+
+Deployment:
+
+Deploy to a static hosting platform (e.g., GitHub Pages preferred)
+
+Clean separation of source and deploy output
+
+No secrets committed to the repo
+
+Repository Quality:
+
+Logical folder structure
+
+Meaningful commits
+
+README explaining:
+
+Tech stack choice
+
+CI/CD workflow
+
+Deployment process
+
+🎨 Design & UX Guidelines
+
+Modern typography
+
+Neutral, professional color palette
+
+Fully responsive
+
+Smooth but subtle JavaScript animations
+
+Strong spacing and hierarchy
+
+🧠 Critical Instruction
+
+Before finalizing the build, ask me clear, checklist-style questions about:
+
+Branding headline and tone
+
+Preferred animation intensity
+
+Deployment target confirmation
+
+Which projects to highlight
+
+Any constraints or exclusions
+
+Wait for my responses before proceeding.
+
+✅ Final Expectation
+
+Deliver a production-ready portfolio website and GitHub repository that demonstrates:
+
+Strong HTML/CSS/JS fundamentals
+
+Clean, readable code
+
+Real CI/CD pipeline implementation
+
+Professional-grade presentation
